@@ -4,18 +4,22 @@
 
 header {
 	font-family: alice;
-	font-size: 16px;
+	font-size: 18px;
 	color: #AE5D03;
 }
 
 nav {
 	font-family: alice;
-	font-size: 14px;
+	font-size: 16px;
 }
-
+#jumbotron {
+	font-family: alice;
+	font-size: 16px;
+	color: #AE5D03;
+}
 #bio {
 	font-family: alice;
-	font-size: 14px;
+	font-size: 16px;
 }
 
 #display-4 {
