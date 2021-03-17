@@ -16,3 +16,13 @@ nav {
 	transform: rotate(180deg);
 	font-size:14px;
 }
+
+#bio {
+	display:block;
+	position:absolute;
+	width:500px;
+	height:300px;
+	margin:100px;
+	left:15%;
+	z-index:1;
+}
