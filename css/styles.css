@@ -2,8 +2,17 @@
 /* CSS Document */
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 
-header
-	{font-family: alice;
+header {
+	font-family: alice;
 	font-size: 16px;
 	color: #AE5D03;
+}
+
+nav {
+	display:block;
+	margin:auto;
+	writing-mode: vertical-rl;
+	text-align:center;
+	transform: rotate(180deg);
+	font-size:14px;
 }
