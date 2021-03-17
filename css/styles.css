@@ -9,20 +9,11 @@ header {
 }
 
 nav {
-	display:block;
-	margin:auto;
-	writing-mode: vertical-rl;
-	text-align:center;
-	transform: rotate(180deg);
-	font-size:14px;
+	font-family: alice;
+	font-size: 14px;
 }
 
 #bio {
-	display:block;
-	position:absolute;
-	width:500px;
-	height:300px;
-	margin:100px;
-	left:15%;
-	z-index:1;
+	font-family: alice;
+	font-size: 14px;
 }
