@@ -19,7 +19,7 @@ nav {
 }
 
 .jumbotron {
-	background-color: #DBAE81;
+	background-color: #DBAE81 !important;
 }
 
 .bio {
