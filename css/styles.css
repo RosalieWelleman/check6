@@ -2,7 +2,7 @@
 /* CSS Document */
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 
-body
+.container
 	{font-family: alice;
 	font-size: 20px;
 	color: #AE5D03;
