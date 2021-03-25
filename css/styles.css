@@ -2,20 +2,10 @@
 /* CSS Document */
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 
-header {
+body {
+	background-color: #E6C19A;
+	color: #3F2908;
 	font-family: alice;
-	font-size: 18px;
-	color: #AE5D03;
-}
-
-p {
-	font-family: alice;
-	font-size: 16px;
-}
-
-nav {
-	font-family: alice;
-	font-size: 16px;
 }
 
 .jumbotron {
